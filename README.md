@@ -30,7 +30,7 @@ A simple product management app built using **ReactJS** with **TypeScript**. Thi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/product-management-app.git
+   git clone https://github.com/agusarya592/product-management-technical-test.git
 2. Navigate into the project directory:
 
    ```bash
